@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jaswanth-gollamudi
-- 👀 I’m interested in Coding, books and sports
+- 👋 Hi, I’m jaswanth
+- 👀 I’m interested in coding,books and travel.
 - 🌱 I’m currently learning Android,Os
 - 💞️ I’m looking to collaborate on building Apps
 - 📫 How to find me: 
