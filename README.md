@@ -1,12 +1,4 @@
-- 👋 Hi, I’m jaswanth
-- 👀 I’m interested in coding,books and travel.
-- 🌱 I’m currently learning Android,Os
-- 💞️ I’m looking to collaborate on building Apps
-- 📫 How to find me: 
-  - :bulb: [Medium articles](https://medium.com/@khuyentran1476)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
-  - :office: [LinkedIn](https://www.linkedin.com/in/jaswanth-gollamudi-587761168/)
-  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+[![MasterHead](https://media-exp1.licdn.com/dms/imag...)](https://khushboogoel01.github.io)
 
 <!---
 jaswanth-gollamudi/jaswanth-gollamudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
