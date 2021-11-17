@@ -1,4 +1,8 @@
-![MasterHead](https://i2.wp.com/blog.smartthings.com/wp-content/uploads/2014/06/Android-Green-Black-Wallpaper-Image.jpg?fit=683%2C405&ssl=1)
+<p align="center">
+  <img src="https://i2.wp.com/blog.smartthings.com/wp-content/uploads/2014/06/Android-Green-Black-Wallpaper-Image.jpg?fit=300%2C405&ssl=1" />
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Jaswanth</h1>
 <h4 align="center">An interesting Android Dev and problem solver</h4>
