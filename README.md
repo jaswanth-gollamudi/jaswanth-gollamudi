@@ -3,11 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jaswanth</h1>
-<h4 align="center">An interesting Android Dev and problem solver</h4>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jaswanth-gollamudi" alt="jaswanth-gollamudi"/></p>
 
-- 🔭 I’m currently working on **EasyPdf App**
+- 🔭 I’m currently working as Android Developer
 
 - 🌱 I’m currently learning **OS, Hydrid Apps, DSA**
 
