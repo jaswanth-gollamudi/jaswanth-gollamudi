@@ -6,7 +6,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jaswanth-gollamudi" alt="jaswanth-gollamudi"/></p>
 
-- 🔭 I’m currently working as Android Developer
+- 🔭 I’m currently working as Flutter Developer
 
 - 🌱 I’m currently learning **OS, Hydrid Apps, DSA**
 
